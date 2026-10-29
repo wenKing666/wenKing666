@@ -1,4 +1,4 @@
-# Hi, I'm [你的名字] 👋
+# Hi, I'm WENJING 👋
 
 **前端开发 · Vue 2 / Vue 3 · 视觉设计 · 视频剪辑**
 
@@ -7,7 +7,7 @@
 - 🔭 当前：Vue 前端项目开发 / Vue 2 到 Vue 3 迁移（按实际改）
 - 🎨 设计与视频：Photoshop · Illustrator · Premiere Pro
 - 🧱 工程基础：Java · MySQL · Linux
-- 📫 联系我：[Email](mailto:you@example.com) · [Blog](https://your-blog.dev)
+- 📫 联系我：[Email](wenjing021812@gmail.com) · [Blog](https://wenjingblog.xyz/)
 
 ## 🧰 工具箱
 
@@ -31,14 +31,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**办公与文档**：Excel · Word · PowerPoint · PE（如果 PE 是具体工具，请替换成实际名称）
+**办公与文档**：Excel · Word · PowerPoint
 
 ## 📌 代表项目
 
 | 项目 | 说明 |
 | --- | --- |
-| [项目名](链接) | 一句话：做了什么、用了 Vue 2 / Vue 3 的哪些能力 |
-| [项目名](链接) | 一句话：做了什么、用了哪些技术 |
+| [项目名](链接) | |
+| [项目名](链接) | |
 
 ## 📊 GitHub 概览
 
