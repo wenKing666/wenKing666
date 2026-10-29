@@ -4,7 +4,7 @@
 
 我关注 Web 前端与界面体验，能使用 Vue 2 / Vue 3 开发页面与交互，也能用 PS / AI / PR 完成视觉与视频素材；同时具备 Java、MySQL、Linux 的工程基础。
 
-- 🔭 当前：Vue 前端项目开发 / Vue 2 到 Vue 3 迁移（按实际改）
+- 🔭 当前：Vue 前端项目开发 / Vue 2 到 Vue 3 迁移
 - 🎨 设计与视频：Photoshop · Illustrator · Premiere Pro
 - 🧱 工程基础：Java · MySQL · Linux
 - 📫 联系我：[Email](wenjing021812@gmail.com) · [Blog](https://wenjingblog.xyz/)
